@@ -1,0 +1,5 @@
+{
+    "token": "HESAP_TOKENI",
+    "webhookUrl": "WEBHOOK_URL",
+    "kişi_id": "TAKIP_EDILECEK_KİSİ"
+  }
